@@ -1,2 +1,1 @@
-# pkg
-repo of my example pkg
+# This is the repo of my example pkg
